@@ -1,0 +1,1 @@
+{"kelas": ["coral", "crustacean", "fish", "octopus", "other_marine", "seaweed", "shark", "sponge"], "jumlah": {"fish": 2180, "coral": 1110, "shark": 912, "other_marine": 738, "crustacean": 607, "octopus": 553, "sponge": 291, "seaweed": 128}, "train": 5215, "test": 1304, "total": 6519}
